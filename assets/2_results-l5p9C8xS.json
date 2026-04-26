@@ -1,0 +1,168 @@
+{
+    "response": {
+        "responseCode": "0",
+        "messageCode": null,
+        "description": null
+    },
+    "data": {
+        "projectId": "63097231289",
+        "projectCost": "P",
+        "projectCostName": "เกณฑ์ราคาเกณฑ์คุณภาพ",
+        "minQualityScore": null,
+        "realMethodId": "160",
+        "announceDate": null,
+        "deliverDay": 1826,
+        "reportDate": "2020-09-10T17:00:00.000+00:00",
+        "procureResultList": [
+            {
+                "considerDesc": "จ้างเหมารถโดยสารรับ-ส่ง ภายใน มหาวิทยาลัยธรรมศาสตร์ จำนวน 20 คัน (ด้วยรถโดยสารไฟฟ้า)",
+                "procureResultDataResponse": [
+                    {
+                        "receiveNameTh": "กรีนเทค เอสโซซิเอท",
+                        "receiveTin": "0143534000306",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท เจเอ็นพี อินเตอร์เทรด จำกัด",
+                        "receiveTin": "0605558001385",
+                        "priceProposal": 90325550.0,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ช ทวี จำกัด (มหาชน)",
+                        "receiveTin": "0107556000027",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท เดสพาซีโต บูล  จำกัด",
+                        "receiveTin": "0105551040827",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ทรัพย์เจริญ แทรเวล (2007) จำกัด",
+                        "receiveTin": "0105562059770",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ธนบุรีมอเตอร์เซลส์ จำกัด",
+                        "receiveTin": "0105543079213",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ธนัชวิชญ์ แทรเวล กรุ๊ป จำกัด",
+                        "receiveTin": "0105552072153",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท พรทิพย์ แทรเวล จำกัด",
+                        "receiveTin": "0105552084771",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ยูเทคโนโลยี จำกัด",
+                        "receiveTin": "0105551055549",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท รถไฟฟ้า (ประเทศไทย) จำกัด (มหาชน)",
+                        "receiveTin": "0107550000092",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท วังน้อยการช่าง จำกัด",
+                        "receiveTin": "0145556001293",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สปีดี้ แพคเก็จเอ็กซ์เพรส จำกัด",
+                        "receiveTin": "0105537081945",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สันทัด(2011) จำกัด",
+                        "receiveTin": "0105499001412",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "ห้างหุ้นส่วนจำกัด ธ.ภูมิทัศน์",
+                        "receiveTin": "0123555003509",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "ห้างหุ้นส่วนจำกัด ธรรมาธิปไตย๙",
+                        "receiveTin": "0103557024171",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "ห้างหุ้นส่วนจำกัด  นิยมชน",
+                        "receiveTin": "0603539000253",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    }
+                ]
+            }
+        ]
+    }
+}

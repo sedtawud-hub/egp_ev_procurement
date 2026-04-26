@@ -1,0 +1,100 @@
+{
+    "response": {
+        "responseCode": "0",
+        "messageCode": null,
+        "description": null
+    },
+    "data": {
+        "projectId": "66109208771",
+        "projectCost": "C",
+        "projectCostName": "เกณฑ์ราคา",
+        "minQualityScore": 0.0,
+        "realMethodId": "160",
+        "announceDate": "2024-02-13T17:00:00.000+00:00",
+        "deliverDay": 240,
+        "reportDate": "2023-12-21T17:00:00.000+00:00",
+        "procureResultList": [
+            {
+                "considerDesc": "รถโดยสารไฟฟ้าปรับอากาศ (EV BUS) ",
+                "procureResultDataResponse": [
+                    {
+                        "receiveNameTh": "กิจการร่วมค้า พรโชคทรานสปอร์ต",
+                        "receiveTin": "D888867000281",
+                        "priceProposal": 105500000.0,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": [
+                            {
+                                "projectId": "66109208771",
+                                "submitTin": "0105557140301",
+                                "merchantNameTh": "บริษัท แสงตะวัน 99 จำกัด",
+                                "merchantTitleGrp": "2"
+                            },
+                            {
+                                "projectId": "66109208771",
+                                "submitTin": "0103556064617",
+                                "merchantNameTh": "ห้างหุ้นส่วนจำกัด ไทย พีพีที คอนสตรัคชั่น",
+                                "merchantTitleGrp": "2"
+                            }
+                        ]
+                    },
+                    {
+                        "receiveNameTh": "บริษัท มนตรีทรานสปอร์ต คอร์ปอเรชั่น จำกัด (มหาชน)",
+                        "receiveTin": "0107548000528",
+                        "priceProposal": 155500000.0,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท รถไฟฟ้า (ประเทศไทย)  จำกัด (มหาชน)",
+                        "receiveTin": "0107550000092",
+                        "priceProposal": 127895644.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "SM ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท วังน้อยการช่าง จำกัด",
+                        "receiveTin": "0145556001293",
+                        "priceProposal": 121700000.0,
+                        "resultFlag": "P",
+                        "priceAgree": 121700000.0,
+                        "scoreTypeId": "SM ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สกุลฎ์ซี อินโนเวชั่น จำกัด",
+                        "receiveTin": "0725560001205",
+                        "priceProposal": 141600000.0,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท อรุณ พลัส จำกัด",
+                        "receiveTin": "0105564029665",
+                        "priceProposal": 123000000.0,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท อีเอ ฟูทูร่า จำกัด",
+                        "receiveTin": "0105564102257",
+                        "priceProposal": 105000000.0,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    }
+                ]
+            }
+        ]
+    }
+}

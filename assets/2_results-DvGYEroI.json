@@ -1,0 +1,114 @@
+{
+    "response": {
+        "responseCode": "0",
+        "messageCode": null,
+        "description": null
+    },
+    "data": {
+        "projectId": "67049245519",
+        "projectCost": "C",
+        "projectCostName": "เกณฑ์ราคา",
+        "minQualityScore": null,
+        "realMethodId": "181",
+        "announceDate": "2024-05-27T17:00:00.000+00:00",
+        "deliverDay": null,
+        "reportDate": "2024-04-21T17:00:00.000+00:00",
+        "procureResultList": [
+            {
+                "considerDesc": "เช่ารถยนต์ไฟฟ้า (EV Cars) ประจำตำแหน่งผู้อำนวยการฝ่ายหรือเทียบเท่า",
+                "procureResultDataResponse": [
+                    {
+                        "receiveNameTh": "บริษัท กรุงไทยคาร์เร้นท์ แอนด์ ลีส จำกัด (มหาชน)",
+                        "receiveTin": "0107547000761",
+                        "priceProposal": 57916104.0,
+                        "resultFlag": "P",
+                        "priceAgree": 57915990.0,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท คอนเซพ แลนด์ 5 จำกัด",
+                        "receiveTin": "0105552091794",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ซินเนอร์เจติค ออโต้ เพอร์ฟอร์มานซ์ จำกัด (มหาชน)",
+                        "receiveTin": "0107559000371",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ไทยเร้นท์อะคาร์ คอร์ปอเรชั่น  จำกัด",
+                        "receiveTin": "0105557032877",
+                        "priceProposal": 65381280.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ภัทรลิสซิ่ง จำกัด (มหาชน)",
+                        "receiveTin": "0107537000211",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท มาสเตอร์ คาร์เร้นเทิล จำกัด",
+                        "receiveTin": "0105545068651",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท อาคเนย์แคปปิตอล จำกัด",
+                        "receiveTin": "0105537045761",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท อินทีกริตี้ โชลูชั่น ซัพพลาย จำกัด",
+                        "receiveTin": "0105551059633",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท อินโนพาวเวอร์ จำกัด",
+                        "receiveTin": "0125564027522",
+                        "priceProposal": 69615240.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท อีวี มี พลัส จำกัด",
+                        "receiveTin": "0105564114352",
+                        "priceProposal": 62697720.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    }
+                ]
+            }
+        ]
+    }
+}

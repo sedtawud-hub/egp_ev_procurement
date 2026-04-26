@@ -1,0 +1,115 @@
+{
+    "response": {
+        "responseCode": "0",
+        "messageCode": null,
+        "description": null
+    },
+    "data": {
+        "projectId": "68059020614",
+        "projectCost": "C",
+        "projectCostName": "เกณฑ์ราคา",
+        "minQualityScore": 0.0,
+        "realMethodId": "160",
+        "announceDate": "2025-11-05T17:00:00.000+00:00",
+        "deliverDay": 150,
+        "reportDate": "2025-10-13T17:00:00.000+00:00",
+        "procureResultList": [
+            {
+                "considerDesc": "รถโดยสายไฟฟ้าปรับอากาศ (EV BUS) ",
+                "procureResultDataResponse": [
+                    {
+                        "receiveNameTh": "กิจการค้าร่วม ไซแมท ทีทีดี",
+                        "receiveTin": "D888868008815",
+                        "priceProposal": 58488888.0,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": "   ",
+                        "jointVentureAndConsortiumsResponseList": [
+                            {
+                                "projectId": "68059020614",
+                                "submitTin": "0105552026640",
+                                "merchantNameTh": "บริษัท ไซแมท เทเลคอม จำกัด",
+                                "merchantTitleGrp": "2"
+                            },
+                            {
+                                "projectId": "68059020614",
+                                "submitTin": "0105552026640",
+                                "merchantNameTh": "บริษัท ไซแมท เทเลคอม  จำกัด",
+                                "merchantTitleGrp": "2"
+                            },
+                            {
+                                "projectId": "68059020614",
+                                "submitTin": "0105553005735",
+                                "merchantNameTh": "บริษัท ไทย เทคโนโลยี เเอนด์ เดเวลลอปเมนท์ จำกัด",
+                                "merchantTitleGrp": "2"
+                            }
+                        ]
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ริเวอร์ อินเตอร์เทรด จำกัด",
+                        "receiveTin": "0105546099606",
+                        "priceProposal": 64000000.0,
+                        "resultFlag": "P",
+                        "priceAgree": 64000000.0,
+                        "scoreTypeId": "   ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สยามปทุมกรุ๊ป จำกัด",
+                        "receiveTin": "0135542000371",
+                        "priceProposal": 64490000.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "   ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท อรุณ พลัส จำกัด",
+                        "receiveTin": "0105564029665",
+                        "priceProposal": 56581921.0,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": "   ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท อิทธิพรกลการ จำกัด",
+                        "receiveTin": "0105548077677",
+                        "priceProposal": 56000000.0,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": "   ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท เอสทีอี เอนจิเนียริ่ง จำกัด",
+                        "receiveTin": "0125562025859",
+                        "priceProposal": 64290000.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "   ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท เอส.เอ็ม.อี. วิศวเทค จำกัด",
+                        "receiveTin": "0135542000532",
+                        "priceProposal": 64400000.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "   ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "ห้างหุ้นส่วนจำกัด มีแสง แอสเซมบลี",
+                        "receiveTin": "0733548001584",
+                        "priceProposal": 61987650.0,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": "   ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    }
+                ]
+            }
+        ]
+    }
+}

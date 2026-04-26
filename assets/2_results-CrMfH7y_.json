@@ -1,0 +1,150 @@
+{
+    "response": {
+        "responseCode": "0",
+        "messageCode": null,
+        "description": null
+    },
+    "data": {
+        "projectId": "63097223602",
+        "projectCost": "P",
+        "projectCostName": "เกณฑ์ราคาเกณฑ์คุณภาพ",
+        "minQualityScore": null,
+        "realMethodId": "160",
+        "announceDate": "2020-12-20T17:00:00.000+00:00",
+        "deliverDay": 1826,
+        "reportDate": "2020-09-10T17:00:00.000+00:00",
+        "procureResultList": [
+            {
+                "considerDesc": "จ้างเหมารับ-ส่งบุคลากรมหาวิทยาลัยธรรมศาสตร์ (ด้วยรถโดยสารไฟฟ้า)",
+                "procureResultDataResponse": [
+                    {
+                        "receiveNameTh": "บริษัท ช ทวี จำกัด (มหาชน)",
+                        "receiveTin": "0107556000027",
+                        "priceProposal": 76000000.0,
+                        "resultFlag": "P",
+                        "priceAgree": 76000000.0,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท เชิดชัยมอเตอร์เซลส์ จำกัด",
+                        "receiveTin": "0305523000105",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ซี.ซี.คอนเทนท์ คอมเมอร์เชียล จำกัด",
+                        "receiveTin": "0105525038900",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท เดสพาซีโต บูล  จำกัด",
+                        "receiveTin": "0105551040827",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ทรัพย์เจริญ แทรเวล (2007) จำกัด",
+                        "receiveTin": "0105562059770",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ไทยอีวี จำกัด",
+                        "receiveTin": "0105555178866",
+                        "priceProposal": 85555555.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ธนบุรีมอเตอร์เซลส์ จำกัด",
+                        "receiveTin": "0105543079213",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ธนัชวิชญ์ แทรเวล กรุ๊ป จำกัด",
+                        "receiveTin": "0105552072153",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท รถไฟฟ้า (ประเทศไทย) จำกัด (มหาชน)",
+                        "receiveTin": "0107550000092",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท วังน้อยการช่าง จำกัด",
+                        "receiveTin": "0145556001293",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สปีดี้ แพคเก็จเอ็กซ์เพรส จำกัด",
+                        "receiveTin": "0105537081945",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สันทัด(2011) จำกัด",
+                        "receiveTin": "0105499001412",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "ห้างหุ้นส่วนจำกัด ธรรมาธิปไตย๙",
+                        "receiveTin": "0103557024171",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "ห้างหุ้นส่วนจำกัด ล้อเจริญทรานสปอร์ต",
+                        "receiveTin": "0103529028753",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    }
+                ]
+            }
+        ]
+    }
+}

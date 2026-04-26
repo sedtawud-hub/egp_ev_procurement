@@ -1,0 +1,105 @@
+{
+    "response": {
+        "responseCode": "0",
+        "messageCode": null,
+        "description": null
+    },
+    "data": {
+        "projectId": "63077108108",
+        "projectCost": "C",
+        "projectCostName": "เกณฑ์ราคา",
+        "minQualityScore": null,
+        "realMethodId": "160",
+        "announceDate": "2020-09-20T17:00:00.000+00:00",
+        "deliverDay": 365,
+        "reportDate": "2020-07-13T17:00:00.000+00:00",
+        "procureResultList": [
+            {
+                "considerDesc": "จ้างบริการรถโดยสารไฟฟ้าปรับอากาศ พร้อมพนักงานขับรถ ",
+                "procureResultDataResponse": [
+                    {
+                        "receiveNameTh": "บริษัท ขอนแก่น ช.ทวี (1993) จำกัด",
+                        "receiveTin": "0405533000328",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ไทยอีวี จำกัด",
+                        "receiveTin": "0105555178866",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ธนบุรีมอเตอร์เซลส์ จำกัด",
+                        "receiveTin": "0105543079213",
+                        "priceProposal": 93900000.0,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ธนัชวิชญ์ แทรเวล กรุ๊ป จำกัด",
+                        "receiveTin": "0105552072153",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ภัสสรชัยทัวร์ แอนด์ ทรานสปอร์ต จำกัด",
+                        "receiveTin": "0105539126709",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท รถไฟฟ้า (ประเทศไทย) จำกัด (มหาชน)",
+                        "receiveTin": "0107550000092",
+                        "priceProposal": 78953965.0,
+                        "resultFlag": "P",
+                        "priceAgree": 78953940.0,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สกายเวลล์ (ประเทศไทย) จำกัด",
+                        "receiveTin": "0105559050457",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สยามราชธานี จำกัด (มหาชน)",
+                        "receiveTin": "0107562000297",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท อีวีนาว จำกัด",
+                        "receiveTin": "0105562155566",
+                        "priceProposal": 79399999.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    }
+                ]
+            }
+        ]
+    }
+}

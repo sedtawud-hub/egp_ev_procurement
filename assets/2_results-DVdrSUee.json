@@ -1,0 +1,154 @@
+{
+    "response": {
+        "responseCode": "0",
+        "messageCode": null,
+        "description": null
+    },
+    "data": {
+        "projectId": "64027297786",
+        "projectCost": "P",
+        "projectCostName": "เกณฑ์ราคาเกณฑ์คุณภาพ",
+        "minQualityScore": null,
+        "realMethodId": "181",
+        "announceDate": "2021-02-28T17:00:00.000+00:00",
+        "deliverDay": null,
+        "reportDate": "2021-02-16T17:00:00.000+00:00",
+        "procureResultList": [
+            {
+                "considerDesc": "จ้างเหมารถโดยสารรับ-ส่งภายในมหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต 20 คัน (ด้วยรถโดยสารไฟฟ้า)",
+                "procureResultDataResponse": [
+                    {
+                        "receiveNameTh": "ENOVA INTEGRATION",
+                        "receiveTin": "0245555002198",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "กิจการร่วมค้า เจเอ็นพี อินเตอร์เทรด",
+                        "receiveTin": "D888888888001",
+                        "priceProposal": 91407360.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": [
+                            {
+                                "projectId": "64027297786",
+                                "submitTin": "0605558001385",
+                                "merchantNameTh": "บริษัท เจเอ็นพี อินเตอร์เทรด จำกัด",
+                                "merchantTitleGrp": "2"
+                            },
+                            {
+                                "projectId": "64027297786",
+                                "submitTin": "0603539000253",
+                                "merchantNameTh": "ห้างหุ้นส่วนจำกัด นิยมชน",
+                                "merchantTitleGrp": "2"
+                            }
+                        ]
+                    },
+                    {
+                        "receiveNameTh": "บริษัท เจเอ็นพี อินเตอร์เทรด จำกัด",
+                        "receiveTin": "0605558001385",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ช ทวี จำกัด (มหาชน)",
+                        "receiveTin": "0107556000027",
+                        "priceProposal": 72603400.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ไทยอีวี จำกัด",
+                        "receiveTin": "0105555178866",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ธนบุรีมอเตอร์เซลส์ จำกัด",
+                        "receiveTin": "0105543079213",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ภาวีกิต ทรัค เซลส์ จำกัด",
+                        "receiveTin": "0115551003981",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท รถไฟฟ้า (ประเทศไทย) จำกัด (มหาชน)",
+                        "receiveTin": "0107550000092",
+                        "priceProposal": 72440000.0,
+                        "resultFlag": "P",
+                        "priceAgree": 72440000.0,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท วังน้อยการช่าง จำกัด",
+                        "receiveTin": "0145556001293",
+                        "priceProposal": 72850080.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สกายเวลล์ (ประเทศไทย) จำกัด",
+                        "receiveTin": "0105559050457",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท อีวีนาว จำกัด",
+                        "receiveTin": "0105562155566",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท เอเอ็มอาร์ เอเซีย จำกัด",
+                        "receiveTin": "0105542069010",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "ห้างหุ้นส่วนจำกัด  นิยมชน",
+                        "receiveTin": "0603539000253",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    }
+                ]
+            }
+        ]
+    }
+}

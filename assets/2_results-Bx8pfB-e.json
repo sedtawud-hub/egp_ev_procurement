@@ -1,0 +1,113 @@
+{
+    "response": {
+        "responseCode": "0",
+        "messageCode": null,
+        "description": null
+    },
+    "data": {
+        "projectId": "66119512047",
+        "projectCost": "C",
+        "projectCostName": "เกณฑ์ราคา",
+        "minQualityScore": 0.0,
+        "realMethodId": "160",
+        "announceDate": "2024-03-07T17:00:00.000+00:00",
+        "deliverDay": 150,
+        "reportDate": "2024-01-07T17:00:00.000+00:00",
+        "procureResultList": [
+            {
+                "considerDesc": "จ้างเหมาบริการรถบัสไฟฟ้า (EV) โดยสารปรับอากาศ จำนวน 19 คัน (ระยะเวลาจ้าง 5 ปี)",
+                "procureResultDataResponse": [
+                    {
+                        "receiveNameTh": "กิจการค้าร่วม UTTD ",
+                        "receiveTin": "D888867000575",
+                        "priceProposal": 202831488.73,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": [
+                            {
+                                "projectId": "66119512047",
+                                "submitTin": "0105532021197",
+                                "merchantNameTh": "บริษัท จักรวาล แอดวานซ์ เทคโนโลยี จำกัด",
+                                "merchantTitleGrp": "2"
+                            },
+                            {
+                                "projectId": "66119512047",
+                                "submitTin": "0105553005735",
+                                "merchantNameTh": "บริษัท ไทย เทคโนโลยี เเอนด์ เดเวลลอปเมนท์ จำกัด",
+                                "merchantTitleGrp": "2"
+                            }
+                        ]
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ไทย สมายล์ บัส จำกัด",
+                        "receiveTin": "0105563084972",
+                        "priceProposal": 160000000.0,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท รถไฟฟ้า (ประเทศไทย)  จำกัด (มหาชน)",
+                        "receiveTin": "0107550000092",
+                        "priceProposal": 145956540.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท วังน้อยการช่าง จำกัด",
+                        "receiveTin": "0145556001293",
+                        "priceProposal": 129860000.0,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท อรุณ พลัส จำกัด",
+                        "receiveTin": "0105564029665",
+                        "priceProposal": 128820000.0,
+                        "resultFlag": "P",
+                        "priceAgree": 128250000.0,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท อินโนพาวเวอร์ จำกัด",
+                        "receiveTin": "0125564027522",
+                        "priceProposal": 164821200.0,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "แสงตะวันทราเวลเลอร์",
+                        "receiveTin": "D888867000577",
+                        "priceProposal": 160500000.0,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": [
+                            {
+                                "projectId": "66119512047",
+                                "submitTin": "0105557140301",
+                                "merchantNameTh": "บริษัท แสงตะวัน 99 จำกัด",
+                                "merchantTitleGrp": "2"
+                            },
+                            {
+                                "projectId": "66119512047",
+                                "submitTin": "0103556064617",
+                                "merchantNameTh": "ห้างหุ้นส่วนจำกัด ไทย พีพีที คอนสตรัคชั่น",
+                                "merchantTitleGrp": "2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

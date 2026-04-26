@@ -1,0 +1,141 @@
+{
+    "response": {
+        "responseCode": "0",
+        "messageCode": null,
+        "description": null
+    },
+    "data": {
+        "projectId": "65057496620",
+        "projectCost": "C",
+        "projectCostName": "เกณฑ์ราคา",
+        "minQualityScore": null,
+        "realMethodId": "160",
+        "announceDate": "2022-10-25T17:00:00.000+00:00",
+        "deliverDay": 60,
+        "reportDate": "2022-08-03T17:00:00.000+00:00",
+        "procureResultList": [
+            {
+                "considerDesc": "รถยนต์ไฟฟ้า (EV)",
+                "procureResultDataResponse": [
+                    {
+                        "receiveNameTh": "บริษัท แกรนด์ คาร์เร้นท์ จำกัด",
+                        "receiveTin": "0105525030364",
+                        "priceProposal": 18998064.0,
+                        "resultFlag": "P",
+                        "priceAgree": 18998064.0,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ซีเนียร์บัดดี้ จำกัด",
+                        "receiveTin": "0125560020183",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ทรู ลีสซิ่ง จำกัด",
+                        "receiveTin": "0115535008949",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ไทยเร้นท์อะคาร์ คอร์ปอเรชั่น จำกัด",
+                        "receiveTin": "0105557032877",
+                        "priceProposal": 23728320.0,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ภัทรลิสซิ่ง จำกัด(มหาชน)",
+                        "receiveTin": "0107537000211",
+                        "priceProposal": 17996544.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท มูฟ เร้นท์ เอ คาร์ จำกัด",
+                        "receiveTin": "0105564052837",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท รักษาความปลอดภัย เอ็ม พร็อพเพอร์ตี้ เซอร์วิส  จำกัด",
+                        "receiveTin": "0105544006171",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท เวิลด์คลาส เรนท์ อะ คาร์ จำกัด",
+                        "receiveTin": "0105538067911",
+                        "priceProposal": 25423200.0,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ศรีบางชัน จำกัด",
+                        "receiveTin": "0105533118241",
+                        "priceProposal": 21655944.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สปีดี้ แพคเก็จเอ็กซ์เพรส จำกัด",
+                        "receiveTin": "0105537081945",
+                        "priceProposal": 29275200.0,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สยามราชธานี จำกัด (มหาชน)",
+                        "receiveTin": "0107562000297",
+                        "priceProposal": null,
+                        "resultFlag": "N",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท อาคเนย์แคปปิตอล จำกัด",
+                        "receiveTin": "0105537045761",
+                        "priceProposal": 22341600.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท อินทีกริตี้ โชลูชั่น ซัพพลาย จำกัด",
+                        "receiveTin": "0105551059633",
+                        "priceProposal": 20954880.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    }
+                ]
+            }
+        ]
+    }
+}

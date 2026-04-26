@@ -1,0 +1,351 @@
+{
+    "response": {
+        "responseCode": "0",
+        "messageCode": null,
+        "description": null
+    },
+    "data": {
+        "projectId": "69029482475",
+        "projectCost": "C",
+        "projectCostName": "เกณฑ์ราคา",
+        "minQualityScore": 0.0,
+        "realMethodId": "160",
+        "announceDate": "2026-04-07T17:00:00.000+00:00",
+        "deliverDay": 1826,
+        "reportDate": "2026-03-10T17:00:00.000+00:00",
+        "procureResultList": [
+            {
+                "considerDesc": "รถกระบะไฟฟ้า 2 ประตู ฝ่ายสนามบินและอาคาร ท่าอากาศยานดอนเมือง ",
+                "procureResultDataResponse": [
+                    {
+                        "receiveNameTh": "บริษัท ซินเนอร์เจติค ออโต้ เพอร์ฟอร์มานซ์ จำกัด (มหาชน)",
+                        "receiveTin": "0107559000371",
+                        "priceProposal": 4932000.0,
+                        "resultFlag": "P",
+                        "priceAgree": 4930560.0,
+                        "scoreTypeId": "   ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท วังน้อยการช่าง จำกัด",
+                        "receiveTin": "0145556001293",
+                        "priceProposal": null,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สมาร์ท เทอร์มินอล คอร์ปอเรชั่น  จำกัด",
+                        "receiveTin": "0105550002042",
+                        "priceProposal": null,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    }
+                ]
+            },
+            {
+                "considerDesc": "รถกระบะไฟฟ้า 4 ประตู ฝ่ายการท่าอากาศยาน ท่าอากาศยานดอนเมือง ",
+                "procureResultDataResponse": [
+                    {
+                        "receiveNameTh": "บริษัท ซินเนอร์เจติค ออโต้ เพอร์ฟอร์มานซ์ จำกัด (มหาชน)",
+                        "receiveTin": "0107559000371",
+                        "priceProposal": 1566000.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "   ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท วังน้อยการช่าง จำกัด",
+                        "receiveTin": "0145556001293",
+                        "priceProposal": 1137337.0,
+                        "resultFlag": "P",
+                        "priceAgree": 1110660.0,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สมาร์ท เทอร์มินอล คอร์ปอเรชั่น  จำกัด",
+                        "receiveTin": "0105550002042",
+                        "priceProposal": 1250000.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    }
+                ]
+            },
+            {
+                "considerDesc": "รถกระบะไฟฟ้า 4 ประตู ฝ่ายปฏิบัติการเขตการบิน ท่าอากาศยานดอนเมือง ",
+                "procureResultDataResponse": [
+                    {
+                        "receiveNameTh": "บริษัท ซินเนอร์เจติค ออโต้ เพอร์ฟอร์มานซ์ จำกัด (มหาชน)",
+                        "receiveTin": "0107559000371",
+                        "priceProposal": 3648000.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "   ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ซินเนอร์เจติค ออโต้ เพอร์ฟอร์มานซ์ จำกัด (มหาชน)",
+                        "receiveTin": "0107559000371",
+                        "priceProposal": 4878000.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "   ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท วังน้อยการช่าง จำกัด",
+                        "receiveTin": "0145556001293",
+                        "priceProposal": null,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": null,
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท วังน้อยการช่าง จำกัด",
+                        "receiveTin": "0145556001293",
+                        "priceProposal": 3677157.0,
+                        "resultFlag": "P",
+                        "priceAgree": 3601620.0,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สมาร์ท เทอร์มินอล คอร์ปอเรชั่น  จำกัด",
+                        "receiveTin": "0105550002042",
+                        "priceProposal": 3900000.0,
+                        "resultFlag": "P",
+                        "priceAgree": 3852000.0,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สมาร์ท เทอร์มินอล คอร์ปอเรชั่น  จำกัด",
+                        "receiveTin": "0105550002042",
+                        "priceProposal": 4087200.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    }
+                ]
+            },
+            {
+                "considerDesc": "รถกระบะไฟฟ้า 4 ประตู ฝ่ายไฟฟ้าและเครื่องกล ท่าอากาศยานดอนเมือง ",
+                "procureResultDataResponse": [
+                    {
+                        "receiveNameTh": "บริษัท ซินเนอร์เจติค ออโต้ เพอร์ฟอร์มานซ์ จำกัด (มหาชน)",
+                        "receiveTin": "0107559000371",
+                        "priceProposal": 6480000.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "   ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ซินเนอร์เจติค ออโต้ เพอร์ฟอร์มานซ์ จำกัด (มหาชน)",
+                        "receiveTin": "0107559000371",
+                        "priceProposal": 3240000.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "   ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ซินเนอร์เจติค ออโต้ เพอร์ฟอร์มานซ์ จำกัด (มหาชน)",
+                        "receiveTin": "0107559000371",
+                        "priceProposal": 1635000.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "   ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท วังน้อยการช่าง จำกัด",
+                        "receiveTin": "0145556001293",
+                        "priceProposal": 4776616.0,
+                        "resultFlag": "P",
+                        "priceAgree": 4699440.0,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท วังน้อยการช่าง จำกัด",
+                        "receiveTin": "0145556001293",
+                        "priceProposal": 2350430.0,
+                        "resultFlag": "P",
+                        "priceAgree": 2311200.0,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท วังน้อยการช่าง จำกัด",
+                        "receiveTin": "0145556001293",
+                        "priceProposal": 1213093.0,
+                        "resultFlag": "P",
+                        "priceAgree": 1181280.0,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สมาร์ท เทอร์มินอล คอร์ปอเรชั่น  จำกัด",
+                        "receiveTin": "0105550002042",
+                        "priceProposal": 5409800.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สมาร์ท เทอร์มินอล คอร์ปอเรชั่น  จำกัด",
+                        "receiveTin": "0105550002042",
+                        "priceProposal": 2500000.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สมาร์ท เทอร์มินอล คอร์ปอเรชั่น  จำกัด",
+                        "receiveTin": "0105550002042",
+                        "priceProposal": 1250000.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    }
+                ]
+            },
+            {
+                "considerDesc": "รถกระบะไฟฟ้า 4 ประตู ฝ่ายรักษาความปลอดภัย ท่าอากาศยานดอนเมือง",
+                "procureResultDataResponse": [
+                    {
+                        "receiveNameTh": "บริษัท ซินเนอร์เจติค ออโต้ เพอร์ฟอร์มานซ์ จำกัด (มหาชน)",
+                        "receiveTin": "0107559000371",
+                        "priceProposal": 1704000.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "   ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท วังน้อยการช่าง จำกัด",
+                        "receiveTin": "0145556001293",
+                        "priceProposal": 1219406.0,
+                        "resultFlag": "P",
+                        "priceAgree": 1181280.0,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สมาร์ท เทอร์มินอล คอร์ปอเรชั่น  จำกัด",
+                        "receiveTin": "0105550002042",
+                        "priceProposal": 1250000.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    }
+                ]
+            },
+            {
+                "considerDesc": "รถกระบะไฟฟ้า 4 ประตู ฝ่ายสนามบินและอาคาร ท่าอากาศยานดอนเมือง ",
+                "procureResultDataResponse": [
+                    {
+                        "receiveNameTh": "บริษัท ซินเนอร์เจติค ออโต้ เพอร์ฟอร์มานซ์ จำกัด (มหาชน)",
+                        "receiveTin": "0107559000371",
+                        "priceProposal": 3240000.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "   ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท ซินเนอร์เจติค ออโต้ เพอร์ฟอร์มานซ์ จำกัด (มหาชน)",
+                        "receiveTin": "0107559000371",
+                        "priceProposal": 4860000.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "   ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท วังน้อยการช่าง จำกัด",
+                        "receiveTin": "0145556001293",
+                        "priceProposal": 2451438.0,
+                        "resultFlag": "P",
+                        "priceAgree": 2401080.0,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท วังน้อยการช่าง จำกัด",
+                        "receiveTin": "0145556001293",
+                        "priceProposal": 3677157.0,
+                        "resultFlag": "P",
+                        "priceAgree": 3601620.0,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สมาร์ท เทอร์มินอล คอร์ปอเรชั่น  จำกัด",
+                        "receiveTin": "0105550002042",
+                        "priceProposal": 2500000.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สมาร์ท เทอร์มินอล คอร์ปอเรชั่น  จำกัด",
+                        "receiveTin": "0105550002042",
+                        "priceProposal": 4057350.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    }
+                ]
+            },
+            {
+                "considerDesc": "รถกระบะไฟฟ้า 4 ประตู ศูนย์บริหารการขนส่งสาธารณะ ท่าอากาศยานดอนเมือง",
+                "procureResultDataResponse": [
+                    {
+                        "receiveNameTh": "บริษัท ซินเนอร์เจติค ออโต้ เพอร์ฟอร์มานซ์ จำกัด (มหาชน)",
+                        "receiveTin": "0107559000371",
+                        "priceProposal": 1566000.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "   ",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท วังน้อยการช่าง จำกัด",
+                        "receiveTin": "0145556001293",
+                        "priceProposal": 1118398.0,
+                        "resultFlag": "P",
+                        "priceAgree": null,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    },
+                    {
+                        "receiveNameTh": "บริษัท สมาร์ท เทอร์มินอล คอร์ปอเรชั่น  จำกัด",
+                        "receiveTin": "0105550002042",
+                        "priceProposal": 982000.0,
+                        "resultFlag": "P",
+                        "priceAgree": 963000.0,
+                        "scoreTypeId": "SME",
+                        "jointVentureAndConsortiumsResponseList": null
+                    }
+                ]
+            }
+        ]
+    }
+}
